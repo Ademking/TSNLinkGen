@@ -1,5 +1,7 @@
 # Link Redirect Generator
 
+![](screenshot.png)
+
 Link Redirect Generator for my facebook group: [Tunisia Sharing Network](https://www.facebook.com/groups/TunisiaSharingNetwork)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3
